@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         myrandom.js
 // @namespace    http://eligrey.com
-// @version      1.0.20150924.7
+// @version      1.0.20151006
 // @description  reddit's paywalled myrandom button, for everyone. compatible with Reddit Enhancement Suite's subreddit manager.
 // @author       Eli Grey
 // @updateURL    https://rawgit.com/eligrey/myrandom.js/master/myrandom.user.js
