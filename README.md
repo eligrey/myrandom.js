@@ -15,3 +15,8 @@ Installation
 
 1. Install [Greasemonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/).
 2. [Click here to install myrandom.js](https://rawgit.com/eligrey/myrandom.js/master/myrandom.user.js).
+
+
+### Opera & Safari
+
+Use [Tampermonkey](https://tampermonkey.net/) or a similar userscripts manager extension.
