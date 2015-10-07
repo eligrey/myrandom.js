@@ -9,5 +9,5 @@
 // @match        https://*.reddit.com/*
 // @grant        none
 // @run-at       document-start
-// @require      https://cdn.rawgit.com/eligrey/myrandom.js/master/myrandom.js?v=1.0.20151006
+// @require      https://rawgit.com/eligrey/myrandom.js/master/myrandom.js
 // ==/UserScript==
