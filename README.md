@@ -19,4 +19,4 @@ Installation
 
 ### Opera & Safari
 
-Use [Tampermonkey](https://tampermonkey.net/) or a similar userscripts manager extension.
+Use [Tampermonkey](https://tampermonkey.net/) or a similar userscripts manager extension. Opera and Safari support is untested. Please report any issues that you may encounter.
