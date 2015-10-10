@@ -1,7 +1,7 @@
 myrandom.js
 ============
 
-myrandom.js implements reddit's paywalled myrandom button for everyone. I tried to get this built into the open source [Reddit Enhancement Suite](http://redditenhancementsuite.com/), but honestbleeps seems complacent with forcing an inferior experience onto his users, against the principles of open source.
+myrandom.js implements reddit's paywalled myrandom button for everyone.
 
 Installation
 ------------

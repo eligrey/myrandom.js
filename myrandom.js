@@ -1,7 +1,7 @@
 /* myrandom.js
  * reddit's paywalled myrandom button, for everyone
  * compatible with Reddit Enhancement Suite's subreddit manager
- * 1.0.20151006
+ * 1.0.20151010
  *
  * By Eli Grey, http://eligrey.com
  * License: X11/MIT
@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	var
 	  cached_subreddits = (localStorage.mySubreddits || "").split("+")
 	, freshness = +localStorage.mySubredditsLastAccess || 0
-	, stale = localStorage.mySubredditsRefreshInterval || 172800000 // refresh after 48hrs
+	, stale = +localStorage.mySubredditsRefreshInterval || 172800000 // refresh after 48hrs
 	, random_native = document.querySelector(".random.choice[href$='/r/random/']")
 	, random_res = document.querySelector(".subbarlink[href$='/r/random/']")
 	, myrandom_native = document.querySelector(".choice[href$='/r/myrandom/']")
