@@ -4,7 +4,7 @@
  * 1.0.20151010
  *
  * By Eli Grey, http://eligrey.com
- * License: X11/MIT
+ * License: MIT
  *   See https://github.com/eligrey/myrandom.js/blob/master/LICENSE.md
  */
 
